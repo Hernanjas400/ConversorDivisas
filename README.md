@@ -21,11 +21,6 @@ Oracle-One-Next-Education-Backend-Java
 
 ### Recordando que también debe ser posible convertir inversamente
 
-    🌡 Conversor de temperatura:
+### Incluye
 
-- Convierte de Celsius a Fahrenheit
-- Convierte de Celsius a Kelvin
-- Convierte de Fahrenheit a Celsius
-- Convierte de Fahrenheit a Kelvin
-- Convierte de Kelvin a Celsius
-- Convierte de Kelvin a Fahrenheit
+### Conversor de Masa
